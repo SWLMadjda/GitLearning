@@ -17,4 +17,4 @@ commit, puis réalisez le commit
 • Affichez l'historique du dépôt et vérifiez que votre résultat est cohérent
 • Relevez le hash du commit documentation. Quelles informations sont fournies par la commande
 git show --oneline <hash documentation>
-• Validez et synchronisez le dépôt distant
+• Validez et synchronisez le dépôt distant.

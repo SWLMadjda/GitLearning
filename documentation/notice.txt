@@ -1,0 +1,1 @@
+Here our old code is marked in red and the new edits are green. The last line we see here is asking us what we want to do with this hunk of code and provides us with a variety of options. Which leads to the question — what does each option mean?
