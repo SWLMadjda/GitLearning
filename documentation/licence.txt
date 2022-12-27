@@ -1,0 +1,20 @@
+II.2 - révision granulaire
+Bob
+• Au vu de son expérience précédente, Bob décide de ne plus réaliser de commit aussi fréquemment.
+Il effectue alors l'ensemble des modifications suivantes :
+1. Mise à jour de fichier de licence ? Modifiez le fichier documentation/licence.txt
+2. Ajout d'une documentation ? Ajoutez du fichier documentation/notice.txt
+3. Ajout d'une image pour illustrer le contenu de page4.html
+4. Mise à jour du footer de index.html
+• Après avoir validé ces modifications dans un navigateur, Bob constate que cela représente trop de
+travail pour un seul commit. Il décide donc de répartir ces modifications en 2 commits :
+? Étapes 1 et 2 ? nommé documentation
+? Étapes 3 et 4 ? nommé révision II.2
+• Affichez le statut du dépôt local de Bob
+• Exploitez entre autres commandes, la fonctionnalité git add -p pour définir le périmètre du premier
+commit, puis réalisez le commit
+• Utilisez le même principe que précédemment pour le second commit
+• Affichez l'historique du dépôt et vérifiez que votre résultat est cohérent
+• Relevez le hash du commit documentation. Quelles informations sont fournies par la commande
+git show --oneline <hash documentation>
+• Validez et synchronisez le dépôt distant.
